@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioClient</string>
+    <string name="play">Play</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="enter_a_number_between_1_5">Enter a number between 1-5</string>
+</resources>
